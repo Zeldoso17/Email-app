@@ -7,7 +7,7 @@ import (
 
 	"github.com/rs/cors"
 	"github.com/gorilla/mux"
-	"github.com/Zeldoso17/Email-App/routers"
+	"github.com/Zeldoso17/Email-app/routers"
 )
 
 func Managers() {
