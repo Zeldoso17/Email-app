@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"encoding/json"
 
-	"github.com/Zeldoso17/Email-app/models"
+	"github.com/Zeldoso17/Email-App/models"
 	gomail "gopkg.in/gomail.v2"
 )
 

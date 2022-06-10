@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Zeldoso17/Email-app/handlers"
+	"github.com/Zeldoso17/Email-App/handlers"
 )
 
 func main() {
